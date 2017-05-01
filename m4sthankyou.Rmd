@@ -1,0 +1,35 @@
+---
+title: "Vielen Dank / Thank you"
+#author: "von: Organisation Team, march for science Berlin"
+date: "24 Apr 2017"
+output: pdf_document
+---
+
+---- English below ----
+
+Vielen Dank, dass Ihr/Sie den March for Science Berlin unterstützen. 
+
+Wir hatten einen großartigen Tag und sind überwältigt, dass 11000 Menschen in Berlin auf die Straße gegangen sind um mit uns von der Humboldt-Universität zum Brandenburger Tor zu ziehen, als Teil einer globalen Bewegung für die Freiheit von Wissenschaft und Forschung - gegen Populismus und "alternative Fakten". Ihre Unterstützung war der Schlüssel zum Erfolg, jeder Retweet war wichtig..
+
+Der Berliner Studierendenchor Unität sang "Die Gedanken sind frei" gemeinsam mit den vielen Menschen, die sich am Brandenburger Tor versammelt hatten:
+
+    Die Gedanken sind frei, wer kann sie erraten,
+    sie fliegen vorbei wie nächtliche Schatten.
+    Kein Mensch kann sie wissen, kein Jäger erschießen
+    mit Pulver und Blei: Die Gedanken sind frei!
+    
+    
+----
+  
+Thanks for supporting March for Science Berlin!
+
+We had a great time and were happy about 11000 people joining the march from Humboldt-University to Brandenburg Gate, as part of a global movement for the freedom of science and research - against populism and alternative facts. Your support was key to this success, every retweet was important. 
+
+The choir #Unitaet performed "Die Gedanken sind frei" (Thoughts are free) together with all the people in front of Brandenburg Gate, please share the video with your friends:
+
+    Thoughts are free, who can guess them?
+    They fly by like nocturnal shadows.
+    No man can know them, no hunter can shoot them
+    with powder and lead: Thoughts are free!
+    
+Link: https://twitter.com/ScienceMarchBER/status/855768764821983233    
